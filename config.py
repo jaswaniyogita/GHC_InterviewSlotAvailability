@@ -17,7 +17,7 @@ ALERT_WHITELIST = []
 CATALOG_URL = "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog"
 
 # Link to this project's GitHub
-GITHUB_URL = "https://github.com/ananya0996/check-ghc-interview-slots"
+GITHUB_URL = "https://github.com/jaswaniyogita/GHC_InterviewSlotAvailability"
 
 # Event name for the IFTTT applet
 IFTTT_EVENT_NAME = "ghc25vcfalert"
