@@ -1,7 +1,5 @@
 # Grace Hopper Celebration (GHC) 2025: Virtual Career Fair 1:1 Interview Slot Check Automation
 
-**Note:** Generative AI was extensively used to create this script.
-
 ## Dependencies
 - Google Chrome
 - Chrome WebDriver
