@@ -94,7 +94,7 @@ def get_monitored_companies_dict():
     else:
         logger.debug("Monitoring the companies in ALERT_WHITELIST only.")
         companies = companies = {
-            k: v for k, v in companies.items() if k not in config.ALERT_WHITELIST
+            k: v for k, v in companies.items() if k in config.ALERT_WHITELIST}
         }
     return companies
 
